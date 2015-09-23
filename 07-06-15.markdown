@@ -3,22 +3,14 @@
 * Example Student: 8:30am - 1:00pm, interview
 
 ### Monday, July 6, 2015
-* Robert Cornell: All day - Returning from Honeymoon
-* Josh Cass: 12:30pm - 4pm, Dr. appointment
-* Sally MacNicholas: 8-10am, eye appointment
 
 ### Tuesday, July 7, 2015
-* Jerrod Junker: All day - food poisoning
 
 ### Wednesday, July 8, 2015
 
 ### Thursday, July 9, 2015
 
-* Robert Cornell: All Day: Food Poisoning (Advised Jorge via Slack)
-* Chad Minnerath: half or full -- sick
-
 ### Friday, July 10, 2015
 
+* Josh Cass: all day, wedding in Chicago
 * Andrew Carmer: all day, wedding
-* Tess Griffin: all day, Comic Con in San Diego
-* Lori Culberson: waiting for a plumber
